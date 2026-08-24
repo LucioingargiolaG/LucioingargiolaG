@@ -1,6 +1,6 @@
 # Lucio Ingargiola
 
-Estudiante de la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas en Tandil, Buenos Aires. Front-End Developer y Back-End developer.
+Estudiante de la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas en Tandil, Buenos Aires. Back-End Developer.
 
 ## Proyectos destacados
 
