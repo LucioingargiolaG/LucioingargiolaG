@@ -1,6 +1,6 @@
 # Lucio Ingargiola
 
-Desarrollador web orientado al ecosistema JavaScript. Construyo aplicaciones completas con **Next.js**, **TypeScript** y **MongoDB**, y tengo una base sólida en **Java** aplicando POO, principios SOLID y patrones de diseño.
+Estudiante de la carrera **Desarrollo de Aplicaciones Informáticas** en Tandil. Hago aplicaciones web con conocimientos de **frontend y backend**: del lado del cliente trabajo con React, Next.js y Tailwind CSS; del lado del servidor con Node.js, TypeScript, Prisma y MongoDB. Además, base sólida en **Java** aplicando POO, principios SOLID y patrones de diseño.
 
 ## Proyectos destacados
 
