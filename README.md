@@ -1,6 +1,6 @@
 # Lucio Ingargiola
 
-Estudiante de la **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas** en Tandil, Buenos Aires. **Front-End Developer** y algo más: React, Next.js y Tailwind CSS del lado del cliente; Node.js, TypeScript, Prisma y MongoDB cuando hace falta backend. Base sólida en **Java** aplicando POO, principios SOLID y patrones de diseño.
+Estudiante de la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas en Tandil, Buenos Aires. Front-End Developer y back-end developer
 
 ## Proyectos destacados
 
